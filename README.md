@@ -6,6 +6,7 @@ A web application for managing products, sales, and users with full CRUD operati
 - Entity Framework Core
 - Bootstrap
 - jQuery
+- AutoMapper
 
 ## How to Run
 1. Clone the repository
