@@ -1,0 +1,31 @@
+﻿@model StockTrack.ViewModels.SaleVM
+@{
+    ViewData["Title"] = "View Sale";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Title -->
+<h1>@Model.Product.Name Sale</h1>
+
+<!-- Sale Details -->
+<div class="form-group">
+    <label class="control-label">Product Name</label>
+    <input class="form-control" asp-for="Product.Name" disabled />
+</div>
+<div class="form-group">
+    <label class="control-label">Seller</label>
+    <input class="form-control" asp-for="User.UserName" disabled />
+</div>
+<div class="form-group">
+    <label asp-for="QuantitySold" class="control-label">Quantity Sold</label>
+    <input class="form-control" asp-for="QuantitySold" disabled />
+</div>
+<div class="form-group">
+    <label asp-for="TotalPrice" class="control-label">Total Price</label>
+    <input class="form-control" asp-for="TotalPrice" disabled />
+</div>
+
+<!-- Actions -->
+<a class="btn btn-outline-secondary" asp-action="Index">Back</a>
+<a class="btn btn-outline-primary" asp-route-id="@Model.Id" asp-action="Edit">Edit</a>
+<a class="btn btn-outline-danger" asp-route-id="@Model.Id" asp-action="Delete">Delete</a>

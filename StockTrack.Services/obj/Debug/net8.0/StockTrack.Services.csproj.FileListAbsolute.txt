@@ -1,0 +1,15 @@
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\bin\Debug\net8.0\StockTrack.Services.deps.json
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\bin\Debug\net8.0\StockTrack.Services.dll
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\bin\Debug\net8.0\StockTrack.Services.pdb
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\bin\Debug\net8.0\StockTrack.Data.dll
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\bin\Debug\net8.0\StockTrack.Data.pdb
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\StockTrack.Services.csproj.AssemblyReference.cache
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\StockTrack.Services.GeneratedMSBuildEditorConfig.editorconfig
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\StockTrack.Services.AssemblyInfoInputs.cache
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\StockTrack.Services.AssemblyInfo.cs
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\StockTrack.Services.csproj.CoreCompileInputs.cache
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\StockTra.3D38B380.Up2Date
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\StockTrack.Services.dll
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\refint\StockTrack.Services.dll
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\StockTrack.Services.pdb
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Services\obj\Debug\net8.0\ref\StockTrack.Services.dll

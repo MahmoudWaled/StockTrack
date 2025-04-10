@@ -1,0 +1,41 @@
+﻿@model StockTrack.ViewModels.SaleVM
+@{
+    ViewData["Title"] = "Add Sale";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Title -->
+<h1>Add Sale</h1>
+
+<!-- Form to add a new sale -->
+<form asp-action="Add">
+    <div class="form-group">
+        <label asp-for="ProductId" class="control-label">Product</label>
+        <select class="form-control" asp-for="ProductId" asp-items="@Model.Products">
+            <option value="">-- Select Product --</option>
+        </select>
+        <span asp-validation-for="ProductId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UserId" class="control-label">Seller</label>
+        <select class="form-control" asp-for="UserId" asp-items="@Model.Sellers">
+            <option value="">-- Select Seller --</option>
+        </select>
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="QuantitySold" class="control-label">Quantity Sold</label>
+        <input class="form-control" asp-for="QuantitySold" type="number" placeholder="Enter quantity sold" min="1" />
+        <span asp-validation-for="QuantitySold" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SaleDate" class="control-label">Sale Date</label>
+        <input class="form-control" asp-for="SaleDate" type="datetime-local" />
+        <span asp-validation-for="SaleDate" class="text-danger"></span>
+    </div>
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <!-- Form Actions -->
+    <a class="btn btn-outline-secondary" asp-action="Index">Cancel</a>
+    <button class="btn btn-outline-primary" type="submit">Add</button>
+</form>

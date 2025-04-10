@@ -1,0 +1,31 @@
+﻿@model StockTrack.ViewModels.UserVM
+@{
+    ViewData["Title"] = "Add User";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Title -->
+<h1>Add User</h1>
+
+<!-- Form to add a new user -->
+<form asp-action="Add">
+    <div class="form-group">
+        <label asp-for="UserName" class="control-label">Username</label>
+        <input class="form-control" asp-for="UserName" type="text" placeholder="Enter username" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Role" class="control-label">Role</label>
+        <input class="form-control" asp-for="Role" type="text" placeholder="Enter role" />
+        <span asp-validation-for="Role" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password" class="control-label">Password</label>
+        <input class="form-control" asp-for="Password" type="password" placeholder="Enter password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <!-- Form Actions -->
+    <a class="btn btn-outline-secondary" asp-action="Index">Cancel</a>
+    <button class="btn btn-outline-primary" type="submit">Add</button>
+</form>

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<StockTrack.ViewModels.UserVM>
+@{
+    ViewData["Title"] = "StockTrack | Users";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Display error message if exists -->
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["Error"]
+    </div>
+}
+
+<!-- Page Header with Add Button -->
+<div class="row mb-4">
+    <h1 class="mr-3">Users</h1>
+    <a class="btn btn-primary" asp-action="Add">Add User</a>
+</div>
+
+<!-- Users Table -->
+<div class="container">
+    <table class="data-table table stripe hover nowrap">
+        <thead>
+            <tr>
+                <th class="table-plus">ID</th>
+                <th>Username</th>
+                <th>Role</th>
+                <th class="datatable-nosort d-inline-block">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td class="table-plus">@user.Id</td>
+                    <td>@user.UserName</td>
+                    <td>@user.Role</td>
+                    <td>
+                        <div class="dropdown">
+                            <a class="btn btn-link font-24 p-0 line-height-1 no-arrow dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                                <i class="dw dw-more"></i>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right dropdown-menu-icon-list">
+                                <a class="dropdown-item" asp-action="ViewUser" asp-route-Id="@user.Id"><i class="dw dw-eye"></i> View</a>
+                                <a class="dropdown-item" asp-action="Edit" asp-route-Id="@user.Id"><i class="dw dw-edit2"></i> Edit</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

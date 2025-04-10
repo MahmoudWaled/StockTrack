@@ -1,0 +1,1901 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StockTrack.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StockTrack.z1s0qqcyrw.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\css\\core.min.css",
+      "PackagePath": "staticwebassets\\css\\core.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\css\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\css\\icon-font.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\css\\media.css",
+      "PackagePath": "staticwebassets\\css\\media.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways.css",
+      "PackagePath": "staticwebassets\\fonts\\dropways.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways.eot",
+      "PackagePath": "staticwebassets\\fonts\\dropways.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways.svg",
+      "PackagePath": "staticwebassets\\fonts\\dropways.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways.ttf",
+      "PackagePath": "staticwebassets\\fonts\\dropways.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways.woff",
+      "PackagePath": "staticwebassets\\fonts\\dropways.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways\\dropways.css",
+      "PackagePath": "staticwebassets\\fonts\\dropways\\dropways.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways\\dropways.eot",
+      "PackagePath": "staticwebassets\\fonts\\dropways\\dropways.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways\\dropways.svg",
+      "PackagePath": "staticwebassets\\fonts\\dropways\\dropways.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways\\dropways.ttf",
+      "PackagePath": "staticwebassets\\fonts\\dropways\\dropways.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\dropways\\dropways.woff",
+      "PackagePath": "staticwebassets\\fonts\\dropways\\dropways.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons.css",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons\\foundation-icons.css",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons\\foundation-icons.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons\\foundation-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons\\foundation-icons.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons\\foundation-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons\\foundation-icons.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons\\foundation-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons\\foundation-icons.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\foundation-icons\\foundation-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\foundation-icons\\foundation-icons.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons-master\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons-master\\css\\ionicons.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons-master\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons-master\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons-master\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons-master\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons-master\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons-master\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons-master\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons-master\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons-master\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons-master\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\js\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\js\\clipboard.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\js\\moment.js",
+      "PackagePath": "staticwebassets\\js\\moment.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\js\\setting.js",
+      "PackagePath": "staticwebassets\\js\\setting.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\css\\datepicker.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\css\\datepicker.min.css",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\css\\datepicker.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\datepicker.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\datepicker.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.cs.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.cs.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.da.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.da.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.de.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.de.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.en.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.en.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.es.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.es.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.fi.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.fi.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.fr.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.fr.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.hu.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.hu.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.nl.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.nl.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pl.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pl.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pt-BR.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pt-BR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pt.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.pt.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.ro.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.ro.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.sk.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.sk.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.zh.js",
+      "PackagePath": "staticwebassets\\plugins\\air-datepicker\\dist\\js\\i18n\\datepicker.zh.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\plugins\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\plugins\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\bootstrap-select.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\bootstrap-select.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.css.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.css.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\bootstrap-select.min.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-am_ET.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ar_AR.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-bg_BG.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-cs_CZ.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-da_DK.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-de_DE.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-en_US.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_CL.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-es_ES.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-et_EE.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-eu.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fa_IR.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fi_FI.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-fr_FR.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hr_HR.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-hu_HU.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-id_ID.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-it_IT.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ja_JP.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-kh_KM.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ko_KR.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lt_LT.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-lv_LV.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nb_NO.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-nl_NL.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pl_PL.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_BR.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-pt_PT.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ro_RO.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ru_RU.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sk_SK.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sl_SI.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-sv_SE.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-tr_TR.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-ua_UA.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-vi_VN.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_CN.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\dist\\js\\i18n\\defaults-zh_TW.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\.jshintrc"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-ar_AR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-ar_AR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-bg_BG.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-bg_BG.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-cro_CRO.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-cro_CRO.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-cs_CZ.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-cs_CZ.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-da_DK.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-da_DK.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-de_DE.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-de_DE.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-en_US.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-en_US.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-es_CL.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-es_CL.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-es_ES.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-es_ES.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-et_EE.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-et_EE.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-eu.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-eu.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-fa_IR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-fa_IR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-fi_FI.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-fi_FI.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-fr_FR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-fr_FR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-hu_HU.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-hu_HU.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-id_ID.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-id_ID.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-it_IT.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-it_IT.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-ja_JP.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-ja_JP.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-kh_KM.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-kh_KM.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-ko_KR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-ko_KR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-lt_LT.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-lt_LT.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-nb_NO.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-nb_NO.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-nl_NL.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-nl_NL.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-pl_PL.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-pl_PL.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-pt_BR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-pt_BR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-pt_PT.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-pt_PT.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-ro_RO.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-ro_RO.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-ru_RU.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-ru_RU.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-sk_SK.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-sk_SK.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-sl_SI.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-sl_SI.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-sv_SE.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-sv_SE.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-tr_TR.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-tr_TR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-ua_UA.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-ua_UA.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-vi_VN.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-vi_VN.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-zh_CN.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-zh_CN.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\js\\i18n\\defaults-zh_TW.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\js\\i18n\\defaults-zh_TW.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-select\\test.html",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\test.html"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-tagsinput\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-tagsinput\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-tagsinput\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-tagsinput\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-wysihtml5-master\\bootstrap-wysihtml5.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5-master\\bootstrap-wysihtml5.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap-wysihtml5-master\\bootstrap-wysihtml5.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-wysihtml5-master\\bootstrap-wysihtml5.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\cropperjs\\dist\\cropper-init.js",
+      "PackagePath": "staticwebassets\\plugins\\cropperjs\\dist\\cropper-init.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\cropperjs\\dist\\cropper.common.js",
+      "PackagePath": "staticwebassets\\plugins\\cropperjs\\dist\\cropper.common.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\cropperjs\\dist\\cropper.css",
+      "PackagePath": "staticwebassets\\plugins\\cropperjs\\dist\\cropper.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\cropperjs\\dist\\cropper.esm.js",
+      "PackagePath": "staticwebassets\\plugins\\cropperjs\\dist\\cropper.esm.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\cropperjs\\dist\\cropper.js",
+      "PackagePath": "staticwebassets\\plugins\\cropperjs\\dist\\cropper.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\cropperjs\\dist\\cropper.min.css",
+      "PackagePath": "staticwebassets\\plugins\\cropperjs\\dist\\cropper.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\cropperjs\\dist\\cropper.min.js",
+      "PackagePath": "staticwebassets\\plugins\\cropperjs\\dist\\cropper.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\jszip.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\pdfmake.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\datatables\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\js\\vfs_fonts.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\dropzone\\src\\basic.scss",
+      "PackagePath": "staticwebassets\\plugins\\dropzone\\src\\basic.scss"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\dropzone\\src\\dropzone.css",
+      "PackagePath": "staticwebassets\\plugins\\dropzone\\src\\dropzone.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\dropzone\\src\\dropzone.js",
+      "PackagePath": "staticwebassets\\plugins\\dropzone\\src\\dropzone.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\dropzone\\src\\dropzone.scss",
+      "PackagePath": "staticwebassets\\plugins\\dropzone\\src\\dropzone.scss"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\fancybox\\dist\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\plugins\\fancybox\\dist\\jquery.fancybox.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\fancybox\\dist\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\plugins\\fancybox\\dist\\jquery.fancybox.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\fancybox\\dist\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fancybox\\dist\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\fancybox\\dist\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\plugins\\fancybox\\dist\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.js",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.js.map",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.src.js",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts-3d.src.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts-more.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts-more.js.map",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts-more.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts-more.src.js",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts-more.src.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts.js",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts.js.map",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts.js.map"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highcharts-6.0.7\\code\\highcharts.src.js",
+      "PackagePath": "staticwebassets\\plugins\\highcharts-6.0.7\\code\\highcharts.src.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highlight.js\\src\\highlight.js",
+      "PackagePath": "staticwebassets\\plugins\\highlight.js\\src\\highlight.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highlight.js\\src\\highlight.pack.js",
+      "PackagePath": "staticwebassets\\plugins\\highlight.js\\src\\highlight.pack.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\highlight.js\\src\\styles\\solarized-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight.js\\src\\styles\\solarized-dark.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\ion-rangeslider\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\plugins\\ion-rangeslider\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\ion-rangeslider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\plugins\\ion-rangeslider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jQuery-Knob-master\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jQuery-Knob-master\\jquery.knob.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-asColorPicker\\dist\\css\\asColorPicker.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-asColorPicker\\dist\\css\\asColorPicker.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-asColorPicker\\dist\\images\\alpha.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-asColorPicker\\dist\\images\\alpha.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-asColorPicker\\dist\\images\\hue.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-asColorPicker\\dist\\images\\hue.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-asColorPicker\\dist\\images\\saturation.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-asColorPicker\\dist\\images\\saturation.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-asColorPicker\\dist\\images\\transparent.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-asColorPicker\\dist\\images\\transparent.png"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-asColorPicker\\jquery-asColorPicker.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-asColorPicker\\jquery-asColorPicker.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-asColor\\dist\\jquery-asColor.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-asColor\\dist\\jquery-asColor.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-asGradient\\dist\\jquery-asGradient.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-asGradient\\dist\\jquery-asGradient.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-steps\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-steps\\jquery.steps.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jquery-steps\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-steps\\jquery.steps.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.css",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-2.0.3.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap.css",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\jvectormap\\jquery-jvectormap.js",
+      "PackagePath": "staticwebassets\\plugins\\jvectormap\\jquery-jvectormap.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.js",
+      "PackagePath": "staticwebassets\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\plugins\\malihu-custom-scrollbar-plugin-master\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\plyr\\dist\\plyr.css",
+      "PackagePath": "staticwebassets\\plugins\\plyr\\dist\\plyr.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\plyr\\dist\\plyr.js",
+      "PackagePath": "staticwebassets\\plugins\\plyr\\dist\\plyr.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\plyr\\dist\\plyr.svg",
+      "PackagePath": "staticwebassets\\plugins\\plyr\\dist\\plyr.svg"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\css\\select2.css",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\css\\select2.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\css\\select2.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\af.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\af.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\ar.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\az.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\az.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\bg.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\bs.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\bs.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\ca.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\cs.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\da.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\da.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\de.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\dsb.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\dsb.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\el.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\en.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\en.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\es.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\et.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\eu.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\eu.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\fa.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\fi.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\fr.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\gl.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\he.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\hi.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\hi.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\hr.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\hsb.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\hsb.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\hu.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\hy.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\hy.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\id.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\is.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\is.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\it.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\ja.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\km.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\ko.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\ko.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\lt.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\lt.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\lv.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\mk.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\mk.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\ms.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\ms.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\nb.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\nl.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\pl.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\ps.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\ps.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\pt-BR.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\pt-BR.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\pt.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\ro.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\ro.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\ru.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\sk.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\sl.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\sr-Cyrl.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\sr-Cyrl.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\sr.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\sr.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\sv.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\th.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\tk.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\tk.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\tr.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\uk.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\vi.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\zh-CN.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\zh-CN.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\i18n\\zh-TW.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\i18n\\zh-TW.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\select2.full.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\select2.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\select2.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\select2\\dist\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\dist\\js\\select2.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\sweetalert2\\sweet-alert.init.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweet-alert.init.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\switchery\\switchery.min.css",
+      "PackagePath": "staticwebassets\\plugins\\switchery\\switchery.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\switchery\\switchery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\switchery\\switchery.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\timedropper\\timedropper.css",
+      "PackagePath": "staticwebassets\\plugins\\timedropper\\timedropper.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\timedropper\\timedropper.js",
+      "PackagePath": "staticwebassets\\plugins\\timedropper\\timedropper.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\timedropper\\timedropper.min.css",
+      "PackagePath": "staticwebassets\\plugins\\timedropper\\timedropper.min.css"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\timedropper\\timedropper.min.js",
+      "PackagePath": "staticwebassets\\plugins\\timedropper\\timedropper.min.js"
+    },
+    {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\plugins\\wysihtml5-master\\dist\\wysihtml5-0.3.0.js",
+      "PackagePath": "staticwebassets\\plugins\\wysihtml5-master\\dist\\wysihtml5-0.3.0.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StockTrack.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StockTrack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StockTrack.props",
+      "PackagePath": "build\\StockTrack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StockTrack.props",
+      "PackagePath": "buildMultiTargeting\\StockTrack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StockTrack.props",
+      "PackagePath": "buildTransitive\\StockTrack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

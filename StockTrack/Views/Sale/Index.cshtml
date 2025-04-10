@@ -1,0 +1,61 @@
+﻿@model IEnumerable<StockTrack.ViewModels.SaleVM>
+@{
+    ViewData["Title"] = "StockTrack | Sales";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Display error message if exists -->
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["Error"]
+    </div>
+}
+
+<!-- Page Header with Add Button -->
+<div class="row mb-4">
+    <h1 class="mr-3">Sales</h1>
+    <a class="btn btn-primary" asp-action="Add">Add Sale</a>
+</div>
+
+<!-- Sales Table -->
+<div class="container">
+    <table class="data-table table stripe hover nowrap">
+        <thead>
+            <tr>
+                <th class="table-plus">ID</th>
+                <th>Product Name</th>
+                <th>Seller</th>
+                <th>Quantity Sold</th>
+                <th>Total Price</th>
+                <th>Sale Date</th>
+                <th class="datatable-nosort d-inline-block">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var sale in Model)
+            {
+                <tr>
+                    <td class="table-plus">@sale.Id</td>
+                    <td>@(sale.Product?.Name ?? "N/A")</td>
+                    <td>@(sale.User?.UserName ?? "N/A")</td>
+                    <td>@sale.QuantitySold</td>
+                    <td>@sale.TotalPrice</td>
+                    <td>@sale.SaleDate</td>
+                    <td>
+                        <div class="dropdown">
+                            <a class="btn btn-link font-24 p-0 line-height-1 no-arrow dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                                <i class="dw dw-more"></i>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right dropdown-menu-icon-list">
+                                <a class="dropdown-item" asp-action="ViewSale" asp-route-Id="@sale.Id"><i class="dw dw-eye"></i> View</a>
+                                <a class="dropdown-item" asp-action="Edit" asp-route-Id="@sale.Id"><i class="dw dw-edit2"></i> Edit</a>
+                                <a class="dropdown-item" asp-action="Delete" asp-route-Id="@sale.Id"><i class="dw dw-delete-3"></i> Delete</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
