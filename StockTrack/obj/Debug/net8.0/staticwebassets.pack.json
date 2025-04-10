@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\StockTrack.z1s0qqcyrw.bundle.scp.css"
     },
     {
+      "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
       "Id": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\css\\core.min.css",
       "PackagePath": "staticwebassets\\css\\core.min.css"
     },

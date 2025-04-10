@@ -12,3 +12,4 @@ H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Data\obj\Deb
 H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Data\obj\Debug\net8.0\StockTrack.Data.pdb
 H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Data\obj\Debug\net8.0\StockTrack.Data.genruntimeconfig.cache
 H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Data\obj\Debug\net8.0\ref\StockTrack.Data.dll
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack.Data\obj\Debug\net8.0\StockTrack.Data.sourcelink.json

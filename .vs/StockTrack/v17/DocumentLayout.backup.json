@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E4C729-EE75-4CA8-A119-8A02100A33B3}|StockTrack.Data\\StockTrack.Data.csproj|h:\\courses\\web development course\\projects\\c#\\stocktrack\\stocktrack.data\\migrations\\20250410012646_addseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E4C729-EE75-4CA8-A119-8A02100A33B3}|StockTrack.Data\\StockTrack.Data.csproj|solutionrelative:stocktrack.data\\migrations\\20250410012646_addseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E4C729-EE75-4CA8-A119-8A02100A33B3}|StockTrack.Data\\StockTrack.Data.csproj|h:\\courses\\web development course\\projects\\c#\\stocktrack\\stocktrack.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E4C729-EE75-4CA8-A119-8A02100A33B3}|StockTrack.Data\\StockTrack.Data.csproj|solutionrelative:stocktrack.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 82,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250410012646_AddSeedData.cs",
+              "DocumentMoniker": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack.Data\\Migrations\\20250410012646_AddSeedData.cs",
+              "RelativeDocumentMoniker": "StockTrack.Data\\Migrations\\20250410012646_AddSeedData.cs",
+              "ToolTip": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack.Data\\Migrations\\20250410012646_AddSeedData.cs",
+              "RelativeToolTip": "StockTrack.Data\\Migrations\\20250410012646_AddSeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:26:47.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StockTrack.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StockTrack.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:19:22.313Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

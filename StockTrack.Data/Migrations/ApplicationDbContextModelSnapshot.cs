@@ -22,7 +22,7 @@ namespace StockTrack.Data.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("StockTrack.Data.Data.Product", b =>
+            modelBuilder.Entity("StockTrack.Data.Entities.Product", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -48,9 +48,91 @@ namespace StockTrack.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Category = "Electronics",
+                            Name = "Laptop Dell XPS 13",
+                            Price = 1200.00m,
+                            Quantity = 50
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Category = "Accessories",
+                            Name = "Wireless Mouse",
+                            Price = 25.00m,
+                            Quantity = 200
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Category = "Electronics",
+                            Name = "Samsung Galaxy S23",
+                            Price = 900.00m,
+                            Quantity = 30
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Category = "Accessories",
+                            Name = "USB-C Cable",
+                            Price = 10.00m,
+                            Quantity = 500
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Category = "Electronics",
+                            Name = "Headphones Sony WH-1000XM5",
+                            Price = 350.00m,
+                            Quantity = 40
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Category = "Accessories",
+                            Name = "Keyboard Logitech K380",
+                            Price = 45.00m,
+                            Quantity = 150
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Category = "Electronics",
+                            Name = "Monitor LG 27-inch",
+                            Price = 300.00m,
+                            Quantity = 20
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Category = "Storage",
+                            Name = "External Hard Drive 1TB",
+                            Price = 60.00m,
+                            Quantity = 100
+                        },
+                        new
+                        {
+                            Id = 9,
+                            Category = "Wearables",
+                            Name = "Smartwatch Fitbit Versa 4",
+                            Price = 200.00m,
+                            Quantity = 60
+                        },
+                        new
+                        {
+                            Id = 10,
+                            Category = "Accessories",
+                            Name = "Power Bank 10000mAh",
+                            Price = 30.00m,
+                            Quantity = 300
+                        });
                 });
 
-            modelBuilder.Entity("StockTrack.Data.Data.Sale", b =>
+            modelBuilder.Entity("StockTrack.Data.Entities.Sale", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -80,9 +162,146 @@ namespace StockTrack.Data.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Sales");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            ProductId = 1,
+                            QuantitySold = 2,
+                            SaleDate = new DateTime(2025, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 2400.00m,
+                            UserId = 3
+                        },
+                        new
+                        {
+                            Id = 2,
+                            ProductId = 2,
+                            QuantitySold = 5,
+                            SaleDate = new DateTime(2025, 3, 2, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 125.00m,
+                            UserId = 4
+                        },
+                        new
+                        {
+                            Id = 3,
+                            ProductId = 3,
+                            QuantitySold = 1,
+                            SaleDate = new DateTime(2025, 3, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 900.00m,
+                            UserId = 5
+                        },
+                        new
+                        {
+                            Id = 4,
+                            ProductId = 4,
+                            QuantitySold = 10,
+                            SaleDate = new DateTime(2025, 3, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 100.00m,
+                            UserId = 7
+                        },
+                        new
+                        {
+                            Id = 5,
+                            ProductId = 5,
+                            QuantitySold = 1,
+                            SaleDate = new DateTime(2025, 3, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 350.00m,
+                            UserId = 3
+                        },
+                        new
+                        {
+                            Id = 6,
+                            ProductId = 6,
+                            QuantitySold = 3,
+                            SaleDate = new DateTime(2025, 3, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 135.00m,
+                            UserId = 4
+                        },
+                        new
+                        {
+                            Id = 7,
+                            ProductId = 7,
+                            QuantitySold = 2,
+                            SaleDate = new DateTime(2025, 3, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 600.00m,
+                            UserId = 5
+                        },
+                        new
+                        {
+                            Id = 8,
+                            ProductId = 8,
+                            QuantitySold = 4,
+                            SaleDate = new DateTime(2025, 3, 8, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 240.00m,
+                            UserId = 7
+                        },
+                        new
+                        {
+                            Id = 9,
+                            ProductId = 9,
+                            QuantitySold = 1,
+                            SaleDate = new DateTime(2025, 3, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 200.00m,
+                            UserId = 3
+                        },
+                        new
+                        {
+                            Id = 10,
+                            ProductId = 10,
+                            QuantitySold = 6,
+                            SaleDate = new DateTime(2025, 3, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 180.00m,
+                            UserId = 4
+                        },
+                        new
+                        {
+                            Id = 11,
+                            ProductId = 1,
+                            QuantitySold = 1,
+                            SaleDate = new DateTime(2025, 3, 11, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 1200.00m,
+                            UserId = 5
+                        },
+                        new
+                        {
+                            Id = 12,
+                            ProductId = 2,
+                            QuantitySold = 8,
+                            SaleDate = new DateTime(2025, 3, 12, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 200.00m,
+                            UserId = 7
+                        },
+                        new
+                        {
+                            Id = 13,
+                            ProductId = 3,
+                            QuantitySold = 2,
+                            SaleDate = new DateTime(2025, 3, 13, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 1800.00m,
+                            UserId = 3
+                        },
+                        new
+                        {
+                            Id = 14,
+                            ProductId = 4,
+                            QuantitySold = 15,
+                            SaleDate = new DateTime(2025, 3, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 150.00m,
+                            UserId = 4
+                        },
+                        new
+                        {
+                            Id = 15,
+                            ProductId = 5,
+                            QuantitySold = 1,
+                            SaleDate = new DateTime(2025, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            TotalPrice = 350.00m,
+                            UserId = 5
+                        });
                 });
 
-            modelBuilder.Entity("StockTrack.Data.Data.User", b =>
+            modelBuilder.Entity("StockTrack.Data.Entities.User", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -106,17 +325,75 @@ namespace StockTrack.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Password = "Pass123!",
+                            Role = "Admin",
+                            UserName = "ahmed_mohamed"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Password = "Sara2023",
+                            Role = "User",
+                            UserName = "sara_ali"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Password = "Mh12345",
+                            Role = "Seller",
+                            UserName = "mohamed_hassan"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Password = "Fatima99",
+                            Role = "Seller",
+                            UserName = "fatima_khaled"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Password = "Omar2023",
+                            Role = "Seller",
+                            UserName = "omar_youssef"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Password = "NouraPass",
+                            Role = "User",
+                            UserName = "noura_ahmed"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Password = "Khaled123",
+                            Role = "Seller",
+                            UserName = "khaled_mahmoud"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Password = "Layan2023",
+                            Role = "Admin",
+                            UserName = "layan_said"
+                        });
                 });
 
-            modelBuilder.Entity("StockTrack.Data.Data.Sale", b =>
+            modelBuilder.Entity("StockTrack.Data.Entities.Sale", b =>
                 {
-                    b.HasOne("StockTrack.Data.Data.Product", "Product")
+                    b.HasOne("StockTrack.Data.Entities.Product", "Product")
                         .WithMany("Sales")
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
-                    b.HasOne("StockTrack.Data.Data.User", "User")
+                    b.HasOne("StockTrack.Data.Entities.User", "User")
                         .WithMany("Sales")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Restrict)
@@ -127,12 +404,12 @@ namespace StockTrack.Data.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("StockTrack.Data.Data.Product", b =>
+            modelBuilder.Entity("StockTrack.Data.Entities.Product", b =>
                 {
                     b.Navigation("Sales");
                 });
 
-            modelBuilder.Entity("StockTrack.Data.Data.User", b =>
+            modelBuilder.Entity("StockTrack.Data.Entities.User", b =>
                 {
                     b.Navigation("Sales");
                 });

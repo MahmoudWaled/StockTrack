@@ -5616,6 +5616,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MAhAbdtQIBbePtZ8zOVVwGrWm/CkzV7yPQwjQAD04i4="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"332115"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022MAhAbdtQIBbePtZ8zOVVwGrWm/CkzV7yPQwjQAD04i4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Sep 2020 10:18:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StockTrack/README.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\README.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"469"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 23:57:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StockTrack/README.ts81lrt1t5.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\README.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ts81lrt1t5"},{"Name":"integrity","Value":"sha256-M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y="},{"Name":"label","Value":"_content/StockTrack/README.md"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"469"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 23:57:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/StockTrack/StockTrack.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StockTrack.z1s0qqcyrw.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

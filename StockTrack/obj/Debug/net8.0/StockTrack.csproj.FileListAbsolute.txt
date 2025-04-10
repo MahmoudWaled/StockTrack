@@ -292,3 +292,4 @@ H:\Courses\web development course\projects\c#\StockTrack\StockTrack\bin\Debug\ne
 H:\Courses\web development course\projects\c#\StockTrack\StockTrack\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 H:\Courses\web development course\projects\c#\StockTrack\StockTrack\obj\Debug\net8.0\staticwebassets\msbuild.StockTrack.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 H:\Courses\web development course\projects\c#\StockTrack\StockTrack\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\Courses\web development course\projects\c#\StockTrack\StockTrack\obj\Debug\net8.0\StockTrack.sourcelink.json

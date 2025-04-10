@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F+4fSV2jJ3YtRHBQilg7wkJSBpCZYy20xyRloo5qd6c=",
+  "Hash": "RUqzffTbNDQ1DxEvldEJ5SjUvD9vWA3JN0QWOZfZtcM=",
   "Source": "StockTrack",
   "BasePath": "_content/StockTrack",
   "Mode": "Default",
@@ -9885,6 +9885,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\plugins\\wysihtml5-master\\dist\\wysihtml5-0.3.0.js"
+    },
+    {
+      "Identity": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\README.md",
+      "SourceId": "StockTrack",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\",
+      "BasePath": "_content/StockTrack",
+      "RelativePath": "README#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ts81lrt1t5",
+      "Integrity": "M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\README.md"
     }
   ],
   "Endpoints": [
@@ -48261,6 +48282,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-MAhAbdtQIBbePtZ8zOVVwGrWm/CkzV7yPQwjQAD04i4="
+        }
+      ]
+    },
+    {
+      "Route": "README.md",
+      "AssetFile": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:57:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y="
+        }
+      ]
+    },
+    {
+      "Route": "README.ts81lrt1t5.md",
+      "AssetFile": "H:\\Courses\\web development course\\projects\\c#\\StockTrack\\StockTrack\\wwwroot\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:57:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ts81lrt1t5"
+        },
+        {
+          "Name": "label",
+          "Value": "README.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y="
         }
       ]
     },

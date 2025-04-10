@@ -466,3 +466,4 @@ wwwroot\plugins\timedropper\timedropper.js
 wwwroot\plugins\timedropper\timedropper.min.css
 wwwroot\plugins\timedropper\timedropper.min.js
 wwwroot\plugins\wysihtml5-master\dist\wysihtml5-0.3.0.js
+wwwroot\README.md

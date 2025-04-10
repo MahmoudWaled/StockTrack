@@ -3,6 +3,88 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "README.md",
+      "AssetFile": "README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:57:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y="
+        }
+      ]
+    },
+    {
+      "Route": "README.ts81lrt1t5.md",
+      "AssetFile": "README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:57:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ts81lrt1t5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M4whkacdEFPHGTqUVpqjX2AF3dbgXb3PhRr0Dzv/J/Y="
+        },
+        {
+          "Name": "label",
+          "Value": "README.md"
+        }
+      ]
+    },
+    {
       "Route": "StockTrack.styles.css",
       "AssetFile": "StockTrack.styles.css",
       "Selectors": [],
