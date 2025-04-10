@@ -12,4 +12,5 @@ A web application for managing products, sales, and users with full CRUD operati
 1. Clone the repository
 2. Run `dotnet restore` to install dependencies
 3. Set up the database connection in `appsettings.json`
-4. Run `dotnet run` to start the application
+4. Add migration and update database
+5. Run `dotnet run` to start the application
