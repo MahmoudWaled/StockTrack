@@ -8,6 +8,9 @@ A web application for managing products, sales, and users with full CRUD operati
 - jQuery
 - AutoMapper
 
+## Live preview
+https://stocktrack.runasp.net/
+
 ## How to Run
 1. Clone the repository
 2. Run `dotnet restore` to install dependencies
