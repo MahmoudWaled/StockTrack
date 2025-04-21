@@ -7,6 +7,7 @@ A web application for managing products, sales, and users with full CRUD operati
 - Bootstrap
 - jQuery
 - AutoMapper
+- Sql server
 
 ## Live preview
 https://stocktrack.runasp.net/
