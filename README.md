@@ -2,7 +2,7 @@
 A web application for managing products, sales, and users with full CRUD operations.
 
 ## Technologies Used
-- ASP.NET Core
+- ASP.NET Core (MVC)
 - Entity Framework Core
 - Bootstrap
 - jQuery
